@@ -32,6 +32,7 @@ bash quickstart.sh --install-deps
 1. Install Centos7 or RHEL7
 
 2. Make sure exact following entry available in /etc/fstab file
+
 devpts /dev/pts devpts gid=5,mode=620 0 0
 
 
